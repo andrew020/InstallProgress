@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "AppInfoInstance.h"
 
 const NSString *kBundleID = @"kBundleID";
 const NSString *kVersion = @"kVersion";
@@ -29,13 +30,7 @@ const NSString *kOpen = @"kOpen";
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    exitedDatas = @[
-                    @{
-                        kBundleID : @"",
-                        kVersion : @"",
-                        kPlistURL : @"",
-                        }
-                    ];
+    [AppInfoInstance instance];
 }
 
 #pragma mark- UITableViewDelegate, UITableViewDataSource

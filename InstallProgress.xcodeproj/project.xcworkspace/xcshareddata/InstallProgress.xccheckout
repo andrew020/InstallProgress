@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BF89FF52-4A24-4E1F-A5BD-AA0E866348DB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>InstallProgress</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6E8387CE26493F0D98C9630235546493BE6A132B</key>
+		<string>https://github.com/andrew020/InstallProgress.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>InstallProgress.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6E8387CE26493F0D98C9630235546493BE6A132B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/andrew020/InstallProgress.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6E8387CE26493F0D98C9630235546493BE6A132B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6E8387CE26493F0D98C9630235546493BE6A132B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>InstallProgress-master</string>
+		</dict>
+	</array>
+</dict>
+</plist>
