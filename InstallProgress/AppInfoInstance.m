@@ -48,7 +48,6 @@ static NSString *kTarget = @"sg.com.ncs.bim";
         [workspace removeObserver:self];
     }
     workspace = (LSApplicationWorkspace *)[self getInfo:LSApplicationWorkspace_class fromKey:@"defaultWorkspace"];
-    [workspace addObserver:self forKeyPath:@"allApplications" options:0 context:nil];
 }
 
 #pragma mark -
@@ -79,8 +78,6 @@ static NSString *kTarget = @"sg.com.ncs.bim";
 
 #pragma mark - 
 
-- (void)observeValueForKeyPath:(NSString *)keyPath ofObject:(id)object change:(NSDictionary *)change context:(void *)context {
-    
-}
+
 
 @end

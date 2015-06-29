@@ -17,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		490EFCC51B39023B008512E1 /* LSApplicationWorkspaceObserver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LSApplicationWorkspaceObserver.h; sourceTree = "<group>"; };
+		490EFCC61B39116C008512E1 /* LSInstallProgressDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LSInstallProgressDelegate.h; sourceTree = "<group>"; };
 		49B0BD0D1B316A1F00244B66 /* AppInfoInstance.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppInfoInstance.h; sourceTree = "<group>"; };
 		49B0BD0E1B316A1F00244B66 /* AppInfoInstance.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppInfoInstance.m; sourceTree = "<group>"; };
 		49B0BD101B31AB4400244B66 /* LSApplicationWorkspace.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LSApplicationWorkspace.h; sourceTree = "<group>"; };
@@ -73,6 +75,8 @@
 				49B0BD0D1B316A1F00244B66 /* AppInfoInstance.h */,
 				49B0BD0E1B316A1F00244B66 /* AppInfoInstance.m */,
 				49B0BD101B31AB4400244B66 /* LSApplicationWorkspace.h */,
+				490EFCC51B39023B008512E1 /* LSApplicationWorkspaceObserver.h */,
+				490EFCC61B39116C008512E1 /* LSInstallProgressDelegate.h */,
 			);
 			path = InstallProgress;
 			sourceTree = "<group>";

@@ -9,6 +9,7 @@
 #import <Foundation/Foundation.h>
 
 @interface AppInfoInstance : NSObject
+
 + (AppInfoInstance *)instance;
 
 @end
